@@ -3,7 +3,7 @@
 
 **Supervisor:** Dr. Chetan Waghela, Doctoral Researcher in Quantum Optics in IIT Ropar
 
-The project [report](https://github.com/SoumikSamanta10/Extensive-review-of-Benchmarking-Quantum-Computers/blob/dcec2b3b7b1144a7f63c370914472848f19faa8d/Extensive%20review%20of%20Benchmarking%20Quantum%20Computers.pdf) in the folder `Report'.
+The project [report](https://github.com/SoumikSamanta10/Extensive-review-of-Benchmarking-Quantum-Computers/blob/01e96c706db0cdb0acfb89ff6e5fdfd19540852f/Extensive%20review%20of%20benchmarking%20quantum%20computers_compressed.pdf) in the folder `Report'.
 
 ## **Project Description:**
 
